@@ -37,14 +37,14 @@ const Home = () => {
     <div className="p-2 md:p-4">
     <div className="md:flex gap-4 py-2">
       <div className="md:w-1/2">
-        <div className="flex gap-3 w-36 px-2 bg-slate-400 hover:bg-slate-600 rounded-full cursor-pointer">
-          <img
-            src="https://cdn-icons-png.flaticon.com/512/3731/3731784.png"
-            alt="error"
-            className="h-6"
-          />
-          <p>Bike Delivery</p>
-        </div>
+        // <div className="flex gap-3 w-36 px-2 bg-slate-400 hover:bg-slate-600 rounded-full cursor-pointer">
+        //   <img
+        //     src="https://cdn-icons-png.flaticon.com/512/3731/3731784.png"
+        //     alt="error"
+        //     className="h-6"
+        //   />
+        //   <p>Bike Delivery</p>
+        // </div>
         <h2 className="text-4xl md:text-8xl font-bold">
           Get Your Delivery at <span className="text-red-400">Your Doorstep</span>
         </h2>
